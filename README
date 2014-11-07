@@ -1,0 +1,20 @@
+Screenshots of the program and Windows and Linux binaries compiled by Antti Vainio are available on his site at:
+http://www.anttivainio.net/raytracer2
+
+
+This program participated in a programming contest in which you were supposed to create a 'drawing program'.
+The program was supposed to draw an image based on a black and white silhouette image stored in 'malli.bmp' and save the resulting image into 'teos.bmp'.
+This program is a ray tracer that uses the given image as a heightmap to render a mountain scene using numerous graphical effects that are common in present computer graphics.
+
+Note that the program itself does not have any graphical interface but is a pure command line program and as such does not require any additional libraries.
+
+
+Compiling instructions:
+The program can be compiled at least on Windows and Linux.
+Linux users may use the provided Makefile to compile the program.
+
+
+This program was originally released on January 30th, 2012 at http://www.anttivainio.net
+
+You may use all the source codes for anything you want.
+
